@@ -40,7 +40,7 @@ void sorting(){
   }
 }
   cout<<endl;
-  cout<<"setelah diurutkan "<<endl;
+  cout<<"sesudah diurutkan "<<endl;
   cout<<"-------------- OUTPUT --------------"<<endl;
   for (int i=0; i<total; i++) {
     cout<<"Hewan Ke-"<<i+1<<" : "<<buah[i]<<"|"<<endl;
